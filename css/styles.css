@@ -3217,12 +3217,12 @@ img.u-pull-left {
 }
 
 #intro > div > div > div.s-intro__text > h3 > span{
-    color: white;
+    color: grey;
 }
 
 #intro > div > div > div.s-intro__text > h1{
-    --text-huge-size:12vw;
-    color: #f3f5f5;
+    --text-huge-size:9vw;
+    color: grey;
 }
 
 .s-intro__text h3 {
@@ -3232,7 +3232,7 @@ img.u-pull-left {
     line-height    : 1.0998;
     letter-spacing : -.01em;
     margin-top     : 0;
-    color          : white;
+    color          : grey;
 }
 
 .s-intro__text h3 span {
@@ -3246,7 +3246,7 @@ img.u-pull-left {
     letter-spacing   : -0.015em;
     margin-top       : calc(var(--text-huge-size) / 2 * -1.2);
     margin-bottom    : var(--vspace-1_25);
-    color            : white;
+    color            : rgb(133, 92, 92);
 }
 
 /* --------------------------------------------------------------------
@@ -3256,7 +3256,7 @@ img.u-pull-left {
     aspect-ratio        : 1/1;
     width               : 100%;
     background-color    : var(--color-gray-4);
-    background-image    : url(../images/intro-bg.jpg);
+    background-image    : url(../images/dbzbg.jpg);
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
