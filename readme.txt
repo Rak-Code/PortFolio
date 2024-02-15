@@ -1,130 +1,51 @@
-==================================================================================================
-
-DESCRIPTION:
-
-AUGUSTINE is a clean and minimalist one-page personal website template for creative individuals 
-and professionals. It is the perfect solution for creating a striking online presence where you 
-can highlight your best works and showcase your skills and credentials. AUGUSTINE comes with all 
-the essential website components and features for creating an outstanding and great-looking 
-online resume that would grab everyone's attention.
-
-==================================================================================================
 
 
-LICENSE:
+---
 
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
+# Portfolio Website
 
+Welcome to the Portfolio website! This README provides an overview of the project structure, features, and instructions for setup.
 
-Rights:
--------
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
+## Overview
+The Portfolio website is a showcase of Rakesh Gupta's skills, projects, and contact information. It's built using HTML, CSS, and JavaScript, with additional libraries such as Bootstrap and jQuery for enhanced functionality and styling.
 
+## Features
+- **Responsive Design**: Ensures optimal viewing experience across various devices and screen sizes.
+- **Navigation Menu**: Allows easy navigation to different sections of the website.
+- **Introduction Section**: Presents a brief introduction to Rakesh Gupta, highlighting his role as a UI Designer and Web Developer.
+- **Skills Section**: Displays Rakesh's skills and expertise using progress bars.
+- **Projects Section**: Showcases selected projects with project titles, descriptions, and links to project demos or repositories.
+- **Contact Section**: Provides contact information for reaching out to Rakesh and includes buttons for sending messages or downloading his CV.
+- **Social Media Links**: Allows visitors to connect with Rakesh on various social media platforms.
+- **Footer**: Displays copyright information and includes a "Back to Top" button for easy navigation.
 
-Prohibitions:
--------------
+## Setup
+To run the Portfolio website locally, follow these steps:
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in a web browser.
 
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
+## Usage
+Explore the different sections of the website to learn more about Rakesh Gupta, his skills, and his projects. Use the navigation menu or scroll through the page to navigate between sections.
 
+## Contributing
+If you'd like to contribute to the Portfolio website, please follow these guidelines:
+- Fork the repository.
+- Create a new branch (`git checkout -b feature/your-feature-name`).
+- Make your changes and commit them (`git commit -am 'Add new feature'`).
+- Push your changes to the branch (`git push origin feature/your-feature-name`).
+- Create a new pull request.
 
-Attribution: 
-------------
+## License
+This project is licensed under the [MIT License](LICENSE).
 
-You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
+---
 
-
-
-If you have any questions about the License, feel free to contact us.
-
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE ATTRIBUTION LINK:
-
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
-
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
-and click the pay button on the page.
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since AUGUSTINE is distributed for free, support is not offered. AUGUSTINE is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - https://marksheet.io/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
-
- - https://www.codecademy.com/learn/introduction-to-javascript
- - https://javascript.info/
-
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
-
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - Inter Font (https://fonts.google.com/specimen/Inter)
- - Castoro Font (https://fonts.google.com/specimen/Castoro)
-
-Icons:
- - Boxicons (https://boxicons.com/)
-
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- 
-Javascript Files:
- - Swiper (https://swiperjs.com/)
- - MoveTo.js (https://github.com/hsnaydd/moveTo)
- - Prism.js (https://prismjs.com/)
- - Anime JS (https://animejs.com/)
- - PhotoSwipe (https://photoswipe.com/)
-
--------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from Styleshout :)
-
-
+Feel free to customize this README according to your project's specific requirements and include additional information as needed.
