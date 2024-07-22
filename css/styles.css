@@ -1666,7 +1666,7 @@ hr.fancy::before {
     display           : block;
     height            : var(--vspace-1);
     width             : var(--vspace-1);
-    background-repeat : no-repeat;
+    background-repeat  : no-repeat;
     background        : center center;
     background-size   : contain;
     background-image  : url(../images/icons/icon-quote.svg);
@@ -4165,4 +4165,15 @@ img.u-pull-left {
         height : 1.6rem;
         width  : 1.6rem;
     }
+}
+
+.footerdown{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    text-align: center; /* Center inline content */
+    margin: 0 auto; 
+    /* Center the footerdown itself */
+    margin-top: 100px;
 }

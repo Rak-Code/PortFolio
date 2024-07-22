@@ -226,8 +226,8 @@
                         targets: current.querySelectorAll('[data-animate-el]'),
                         opacity: [0, 1],
                         translateY: [100, 0],
-                        delay: anime.stagger(200, {start: 200}),
-                        duration: 600,
+                        delay: anime.stagger(100, {start: 100}),
+                        duration: 100,
                         easing: 'easeInOutCubic',
                         begin: function(anim) {
                             current.classList.add('ss-animated');
